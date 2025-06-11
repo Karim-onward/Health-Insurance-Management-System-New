@@ -1,7 +1,5 @@
 # Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## screenshots
+## Screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
@@ -61,11 +59,3 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 https://myaccount.google.com/lesssecureapps
 ```
 
-
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoderonline)
